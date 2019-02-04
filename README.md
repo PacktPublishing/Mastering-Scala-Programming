@@ -1,2 +1,1 @@
-# Mastering-Scala-Programming
-Mastering Scala Programming, published by Packt
+# The code for this repository is under development :construction_worker:
